@@ -4,7 +4,7 @@ A classic Minesweeper game implementation in C, featuring a console-based interf
 
 ## Screenshots
 
-[Game Screenshot]
+[![image](https://github.com/user-attachments/assets/29b867e6-a333-448b-8c17-56e066798d13)]
 <!-- Add your game screenshot here -->
 <!-- Example: ![Game Screenshot](assets/screenshots/game.png) -->
 
